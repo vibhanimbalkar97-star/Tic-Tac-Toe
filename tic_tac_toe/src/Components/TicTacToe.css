@@ -14,3 +14,8 @@ height: 50px;
 width: 50px;
 font-size: 12px;
 }
+
+.winner-text{
+    text-align: center;
+    margin-top: 5px;
+}
